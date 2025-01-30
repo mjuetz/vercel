@@ -39,7 +39,7 @@
     "@vercel/node": "3.0.11",
     "@vercel/python": "4.1.0",
     "@vercel/redwood": "2.0.5",
-    "@vercel/remix-builder": "2.0.11",
+    "@vercel/remix-builder": "5.0.2",
     "@vercel/ruby": "2.0.3",
     "@vercel/static-build": "2.0.12",
     "chokidar": "3.3.1"
